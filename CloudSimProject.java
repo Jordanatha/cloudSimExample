@@ -37,7 +37,7 @@ public class CloudSimProject {
 		boolean traceFlag = false;
 		CloudSim.init(numUser, cal, traceFlag);
 		
-		// Creating Datacenter: 
+		// Creating Datacenter: GO TO LINE 117 then go here
 		Datacenter dc = CreateDataCenter();
 		
 		//Creating DataCenterBroker:
